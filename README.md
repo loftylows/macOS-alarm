@@ -2,9 +2,9 @@
 
 Simple alarm app for the macOS
 
-## Getting Started
+## Prerequisites
 
-run:
+Install npm packages:
 
 ```
 npm install
@@ -12,7 +12,7 @@ npm install
 
 ## Build
 
-To build a distributable version after installing npm packages run:
+To build a distributable version:
 
 ```
 npm run package
